@@ -1,4 +1,4 @@
-# Análise do Mercado de Aluguel de Curto Prazo em Nova York: Um Estudo com Base nos Dados Abertos do Airbnb (2019) parte 2
+# Análise do Mercado de Aluguel de Curto Prazo em Nova York: Um Estudo com Base nos Dados Abertos do Airbnb (2019) ultima parte 
 
 
 ## Introdução:
